@@ -173,7 +173,13 @@ img.imagetest {
   font-size: 48px;
   font-family: sans-serif;
 }
+input {
+  border-radius: 20px;
+  box-shadow: 3px 3px 3px black;
+  width: 300px;
 
+  height: 30px;
+}
 /* media queries very bottom of css */
 /* widths in order of largest to smallest */
 @media screen and (max-width: 800px) {
